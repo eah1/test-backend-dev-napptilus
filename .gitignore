@@ -1,0 +1,4 @@
+app/app/__pycache__/*
+app/chocolateFactory/migrations/*
+app/chocolateFactory/__pycache__/*
+togit.sh
